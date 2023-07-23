@@ -1,0 +1,3 @@
+package com.tripleenergytech.recordrefill.presentation.refillhome
+
+class RefillHomeState
